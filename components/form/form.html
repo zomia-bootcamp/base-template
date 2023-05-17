@@ -1,0 +1,58 @@
+<!doctype>
+<html>
+  <head>
+    <title>HTML Forms</title>
+    <link rel="stylesheet" href="form.css" />
+    <script src="form.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a href="../../index.html">Home</a>
+      <a href="form.html">Form</a>
+    </nav>
+    <h1>Form Fields</h1>
+    <form action="" method="get">
+        <label for="firstName">First Name</label>
+        <input type="firstName" id="firstName" name="First_Name" placeholder="placeholder" autofocus="">
+        <br></br>
+        <label for="lastName">Last Name</label>
+        <input type="lastName" id="lastName" name="Last_Name" placeholder="placeholder" autofocus="">
+        <br></br>
+        <textarea type="text">Default input</textarea>
+        <br></br>
+        <label for="email">email</label>
+        <input type="email" id="email" name="email">
+        <br></br>
+        <label for="date">date</date>
+        <input type="date" id="date" name="date">
+        <br></br>
+        <label for="number">phone</date>
+        <input type="number" id="number" name="number">
+        <br></br>
+        <label for="file">file</date>
+        <input type="file" id="file" name="file">
+        <br></br>
+        <button type="submit">Submit</button>
+    </form>
+
+    <div class="query-params">
+      <h2>Inputs</h2>
+      <p>
+        This shows you all of the names and values that
+        have been sent to the server. (<a href="form.html">clear</a>)
+      </p>
+      <table>
+        <thead>
+          <tr>
+            <th>Field Name</th>
+            <th>Value</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+
+  </body>
+</html>
