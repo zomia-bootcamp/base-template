@@ -1,3 +1,13 @@
+Fork this repo: https://github.com/zomia-bootcamp/base-template
+
+Clone it to you local machine in desktop/web-dev/practicess
+
+Every once in a while, add you files and commit them
+
+Once you are done with your project, push it up to github
+
+-------------------------------------
+
 You have three objectives with this project:
 1) Practice building webpages with HTML
 2) Practice replicating page designs using HTML 
@@ -22,4 +32,3 @@ For your Sample page, you should re-create the attached images using HTML.
 - There are two attached photos of what your page should look like: Top of Page.png should be the top of the page and Bottom of Page.png should be the bottom of the page.
 - The meme to be use in the top of the page is attached
 - The link to the video is: https://www.youtube.com/embed/tgbNymZ7vqY
-
