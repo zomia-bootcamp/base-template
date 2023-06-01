@@ -29,6 +29,6 @@ Your Home page should be a personal biography. It should contain:
 
 For your Sample page, you should re-create the attached images using HTML. 
 - Do your best to re-create your page to be a perfect mirror image of the attached photo.
-- There are two attached photos of what your page should look like: Top of Page.png should be the top of the page and Bottom of Page.png should be the bottom of the page.
-- The meme to be use in the top of the page is attached
+- There are two photos attached to the Google Assignment instruction of what your page should look like: Top of Page.png should be the top of the page and Bottom of Page.png should be the bottom of the page.
+- The meme to be use in the top of the page is also in the Google assignment
 - The link to the video is: https://www.youtube.com/embed/tgbNymZ7vqY
