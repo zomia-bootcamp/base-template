@@ -1,0 +1,16 @@
+header {
+    margin-left: 375px;
+    font-style: italic;
+    color: black;
+}
+
+details {
+    margin-left: 130px;
+}
+
+body {
+    font-weight: bold;
+    background-color: #ffffff;
+    opacity: 1;
+    background: linear-gradient(135deg, #ebebeb55 25%, transparent 25%) -40px 0/ 80px 80px, linear-gradient(225deg, #ebebeb 25%, transparent 25%) -40px 0/ 80px 80px, linear-gradient(315deg, #ebebeb55 25%, transparent 25%) 0px 0/ 80px 80px, linear-gradient(45deg, #ebebeb 25%, #ffffff 25%) 0px 0/ 80px 80px;
+}
